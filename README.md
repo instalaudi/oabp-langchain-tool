@@ -87,9 +87,4 @@ tools = [OABPListMissionsTool(), OABCPSubmitSolutionTool(), OABCPCheckReputation
 
 OABP = **Open Agent Bounty Protocol**: a permissionless, transport-agnostic,
 chain-agnostic standard for AI agents to discover, claim, submit, and earn
-for short-form paid work. AIGEN is the reference implementation, running on
-Base and Optimism, with USDC, ETH, and AIGEN rewards.
-
-## License
-
-MIT
+for short-form paid work. AIGEN is the re
